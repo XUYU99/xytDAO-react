@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XUYU99/Web3_Rental_For_Trust-3/static/css/main.0e8796f2.css",
+    "main.js": "/XUYU99/Web3_Rental_For_Trust-3/static/js/main.c1f4bf5c.js",
+    "static/js/453.ad2c5927.chunk.js": "/XUYU99/Web3_Rental_For_Trust-3/static/js/453.ad2c5927.chunk.js",
+    "index.html": "/XUYU99/Web3_Rental_For_Trust-3/index.html",
+    "main.0e8796f2.css.map": "/XUYU99/Web3_Rental_For_Trust-3/static/css/main.0e8796f2.css.map",
+    "main.c1f4bf5c.js.map": "/XUYU99/Web3_Rental_For_Trust-3/static/js/main.c1f4bf5c.js.map",
+    "453.ad2c5927.chunk.js.map": "/XUYU99/Web3_Rental_For_Trust-3/static/js/453.ad2c5927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8796f2.css",
+    "static/js/main.c1f4bf5c.js"
+  ]
+}
