@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/XUYU99/xytDAO-react/static/css/main.0e8796f2.css",
-    "main.js": "/XUYU99/xytDAO-react/static/js/main.c641c41a.js",
+    "main.js": "/XUYU99/xytDAO-react/static/js/main.818c6849.js",
     "static/js/453.ad2c5927.chunk.js": "/XUYU99/xytDAO-react/static/js/453.ad2c5927.chunk.js",
     "index.html": "/XUYU99/xytDAO-react/index.html",
     "main.0e8796f2.css.map": "/XUYU99/xytDAO-react/static/css/main.0e8796f2.css.map",
-    "main.c641c41a.js.map": "/XUYU99/xytDAO-react/static/js/main.c641c41a.js.map",
+    "main.818c6849.js.map": "/XUYU99/xytDAO-react/static/js/main.818c6849.js.map",
     "453.ad2c5927.chunk.js.map": "/XUYU99/xytDAO-react/static/js/453.ad2c5927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e8796f2.css",
-    "static/js/main.c641c41a.js"
+    "static/js/main.818c6849.js"
   ]
 }
