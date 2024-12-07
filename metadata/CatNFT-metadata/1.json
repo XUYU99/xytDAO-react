@@ -1,0 +1,33 @@
+{
+  "name": "Neow",
+  "description": "A lovely British Shorthair cat with chip ID 2763",
+  "image": "https://ipfs.io/ipfs/bafkreihbsqp6mejidxu2ys65didk4zgn65mfbwvm623oblwxpqyrcstzk4",
+  "id": "1",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2763"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2019-01-09"
+    },
+    {
+      "trait_type": "Age",
+      "value": 6
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "British Shorthair"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.006,
+      "currency": "ETH"
+    }
+  ]
+}

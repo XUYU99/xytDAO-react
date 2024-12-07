@@ -1,0 +1,33 @@
+{
+  "name": "Yuntun",
+  "description": "A charming Bengal cat with chip ID 3021",
+  "image": "https://ipfs.io/ipfs/bafkreiacp7t6tx6xsz2hwo6bv3o46zubg5wnynq53lowr7usvzdu7eys7i",
+  "id": "4",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2767"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2017-08-10"
+    },
+    {
+      "trait_type": "Age",
+      "value": 1.5
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bengal"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.001,
+      "currency": "ETH"
+    }
+  ]
+}

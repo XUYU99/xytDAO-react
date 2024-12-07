@@ -1,0 +1,33 @@
+{
+  "name": "Fluffy",
+  "description": "A fluffy Siamese cat with chip ID 5821",
+  "image": "https://ipfs.io/ipfs/bafybeigte7xeqsynzt54cvu3hn6o7yvvj72g6h24fptgwfysmq4ynsn2cy",
+  "id": "3",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "5821"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2018-11-25"
+    },
+    {
+      "trait_type": "Age",
+      "value": 6
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Siamese"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.005,
+      "currency": "ETH"
+    }
+  ]
+}

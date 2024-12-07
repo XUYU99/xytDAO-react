@@ -1,0 +1,33 @@
+{
+  "name": "Sleepy",
+  "description": "A fluffy Siamese cat with chip ID 5821",
+  "image": "https://ipfs.io/ipfs/bafkreiherpisern5u23u5nrzvhisae3ikl2pnnwibk4sgpdvbjgln5skmy",
+  "id": "3",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2766"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2018-11-25"
+    },
+    {
+      "trait_type": "Age",
+      "value": 6
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "British Shorthair"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.007,
+      "currency": "ETH"
+    }
+  ]
+}

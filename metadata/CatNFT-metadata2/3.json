@@ -1,0 +1,33 @@
+{
+  "name": "xiaoJu",
+  "description": "A lovely Maine Coon cat with chip ID 4762",
+  "image": "https://ipfs.io/ipfs/bafybeibkqnt6tfcmr727rmcbrrvlqd353k6v3m3sqperm4xpd7xpkzlto4",
+  "id": "2",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2765"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2020-03-15"
+    },
+    {
+      "trait_type": "Age",
+      "value": 4
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Maine Coon"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.008,
+      "currency": "ETH"
+    }
+  ]
+}

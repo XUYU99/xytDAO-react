@@ -1,0 +1,33 @@
+{
+  "name": "Miu",
+  "description": "A charming Bengal cat with chip ID 3021",
+  "image": "https://ipfs.io/ipfs/bafkreiheno27cjppyry4rfk3kq4q2uvw3c3rdmrw35vkxbxjjlamxdzlsm",
+  "id": "4",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2769"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2017-08-10"
+    },
+    {
+      "trait_type": "Age",
+      "value": 4
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bengal"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.003,
+      "currency": "ETH"
+    }
+  ]
+}

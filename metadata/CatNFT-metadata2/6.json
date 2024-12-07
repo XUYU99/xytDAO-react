@@ -1,0 +1,33 @@
+{
+  "name": "Pillow",
+  "description": "A charming Bengal cat with chip ID 3021",
+  "image": "https://ipfs.io/ipfs/bafybeieotwgksuwtod4ew5vps4fh2w5aeijlbiwirsy3esecgov5tz2qee",
+  "id": "4",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2768"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2017-08-10"
+    },
+    {
+      "trait_type": "Age",
+      "value": 2
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bengal"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.007,
+      "currency": "ETH"
+    }
+  ]
+}

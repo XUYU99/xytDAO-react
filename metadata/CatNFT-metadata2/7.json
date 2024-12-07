@@ -1,0 +1,33 @@
+{
+  "name": "Maimai",
+  "description": "A charming Bengal cat with chip ID 3021",
+  "image": "https://ipfs.io/ipfs/bafybeicvrhauslwkamt4sr5s3i6p5ads5556m7d5b5pfvo5tgxref6fvjy",
+  "id": "4",
+  "attributes": [
+    {
+      "trait_type": "Chip ID",
+      "value": "2769"
+    },
+    {
+      "trait_type": "Birth Date",
+      "value": "2017-08-10"
+    },
+    {
+      "trait_type": "Age",
+      "value": 1.5
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bengal"
+    },
+    {
+      "trait_type": "Minimum Donation Fee",
+      "value": 0.005,
+      "currency": "ETH"
+    }
+  ]
+}
